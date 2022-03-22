@@ -3,7 +3,7 @@
 
 - I devote my efforts to [PexLab](https://www.pexlab.net) as well as to [connect2](https://www.connect2.studio)
 - In order to study Digital Media (BSc) I attend [Fulda University of Applied Sciences](https://www.hs-fulda.de/en/international/international-office/admissions/degree-programmes/studiengang/digitale-medien-bsc/show)
-- You can reach out to me trough **david@sluijs.de**
+- You can reach out to me trough **david@van-der-sluijs.de**
 
 <h3 align="left">Preferred technologies I build upon:</h3>
 <p align="left">
