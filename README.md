@@ -1,5 +1,5 @@
 <h1 align="center">It's a delight having you on here!</h1>
-<h3 align="center">I'm a specialized web 2.0 engineer and Max-8 student based in Germany</h3>
+<h3 align="center">I'm a web engineer based in Germany</h3>
 
 - I devote my efforts to [PexLab](https://www.pexlab.net) as well as to [connect2](https://www.connect2.studio)
 - In order to study Digital Media (BSc) I attend [Fulda University of Applied Sciences](https://www.hs-fulda.de/en/international/international-office/admissions/degree-programmes/studiengang/digitale-medien-bsc/show)
