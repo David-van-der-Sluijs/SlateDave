@@ -1,4 +1,4 @@
-<h1 align="center">It's a delight having you on here!</h1>
+<h1 align="center">Greetings! It's a delight having you on here.</h1>
 <h3 align="center">I'm a software developer (specialized at mostly web and app engineering) based in Germany</h3>
 
 - I devote my efforts to [PexLab](https://www.pexlab.net) as well as to [connect2](https://www.connect2.studio)
