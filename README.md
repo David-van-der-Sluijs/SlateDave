@@ -3,7 +3,7 @@
 
 - I devote my efforts to [PexLab](https://www.pexlab.net) as well as to [connect2](https://www.connect2.studio)
 - In order to study Digital Media (BSc) I attend [Fulda University of Applied Sciences](https://www.hs-fulda.de/en/international/international-office/admissions/degree-programmes/studiengang/digitale-medien-bsc/show)
-- Discover my various profiles on [www.slatedave.de](http://www.slatedave.de)
+- If you'd like you can check out several other online profiles of mine by visiting my homepage at [www.slatedave.de](http://www.slatedave.de).
 
 <h3 align="left">Preferred technologies I build upon:</h3>
 <p align="left">
