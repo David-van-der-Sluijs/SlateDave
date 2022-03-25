@@ -1,11 +1,18 @@
 <h1 align="center">Greetings! It's a delight having you on here.</h1>
-<h3 align="center">I'm a software developer (specialized at mostly web and app engineering) based in Germany</h3>
 
-- I devote my efforts to [PexLab](https://www.pexlab.net) as well as to [connect2](https://www.connect2.studio)
-- In order to study Digital Media (BSc) I attend [Fulda University of Applied Sciences](https://www.hs-fulda.de/en/international/international-office/admissions/degree-programmes/studiengang/digitale-medien-bsc/show)
-- If you'd like you can check out several other online profiles of mine by visiting my homepage at [www.slatedave.de](http://www.slatedave.de).
+<h3 align="center">I'm a software developer currently based in Germany.</h3>
 
-<h3 align="left">Preferred technologies I build upon:</h3>
+<h5 align="center">My heart beats for creativity. I mainly focus on web design/development, but also enjoy and have an interest in various other creative subjects.</h5>
+
+---
+
+<h5 align="center">I devote my efforts to www.pexlab.net as well as to www.connect2.studio</h5>
+<h5 align="center">In order to study Digital Media (BSc) I attend Fulda University of Applied Sciences → www.hs-fulda.de/en/</h5>
+<h5 align="center">If you'd like you can check out several other online profiles of mine by visiting my homepage at www.slatedave.de.</h5>
+
+<br>
+
+<h4 align="left"><i>Preferred technologies I build upon:</i></h3>
 <p align="left">
   
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
