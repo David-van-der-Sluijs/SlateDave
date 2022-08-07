@@ -4,38 +4,36 @@
 ! public: false
 ! avatar: #03685b
 
-.edu$boost=5
 .moe$boost=5
-.de$boost=1
 
-$boost=9,site=pexlab.net
-$boost=9,site=anichief.com
-$boost=9,site=awoo.blue
-$boost=9,site=awoo.show
-$boost=9,site=bakabeat.com
-$boost=9,site=ipgull.com
-$boost=9,site=sluijs.de
-$boost=9,site=sluijs.de
-$boost=9,site=van-der-sluijs.de
+$boost=99,site=pexlab.net
+$boost=99,site=anichief.com
+$boost=99,site=awoo.blue
+$boost=99,site=awoo.show
+$boost=99,site=bakabeat.com
+$boost=99,site=ipgull.com
+$boost=99,site=sluijs.de
+$boost=99,site=sluijs.de
+$boost=99,site=van-der-sluijs.de
 
-$boost=8,site=github.com
-$boost=8,site=stackoverflow.com
-$boost=8,site=golem.de
-$boost=8,site=anilist.co
-$boost=8,site=powerthesaurus.org
-$boost=8,site=woxikon.de
-$boost=8,site=deepl.com
+$boost=98,site=github.com
+$boost=98,site=stackoverflow.com
+$boost=98,site=golem.de
+$boost=98,site=anilist.co
+$boost=98,site=powerthesaurus.org
+$boost=98,site=woxikon.de
+$boost=98,site=deepl.com
 
-$boost=7,site=anidb.net
-$boost=7,site=anisearch.de
-$boost=7,site=wallhaven.cc
-$boost=7,site=npmjs.org
-$boost=7,site=reddit.com
+$boost=97,site=anidb.net
+$boost=97,site=anisearch.de
+$boost=97,site=wallhaven.cc
+$boost=97,site=npmjs.org
+$boost=97,site=reddit.com
 
-$boost=6,site=en.wikipedia.org
-$boost=6,site=twitter.com
+$boost=96,site=en.wikipedia.org
+$boost=96,site=twitter.com
 
-$boost=5,site=de.wikipedia.org
+$boost=95,site=de.wikipedia.org
 
 $discard,site=chip.de
 $discard,site=bytemeta.vip
